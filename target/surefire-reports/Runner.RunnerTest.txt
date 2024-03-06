@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Runner.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 45.31 s <<< FAILURE! - in Runner.RunnerTest
+Search user(Admin tab functionality)  Time elapsed: 22.359 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "pageObjects.AddUserpageobject.searchelement(java.util.List, String)" is null
+
